@@ -27,6 +27,7 @@ __pycache__/
 .expo/
 web-build/
 expo-env.d.ts
+models/
 
 # Native
 *.orig.*
